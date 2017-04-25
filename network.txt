@@ -1,0 +1,11 @@
+Belk Grigg 1.2
+Belk Health 0.5	
+Duke Belk 0.6
+Belk Woodward 0.25
+Woodward Grigg 1.1
+Grigg Duke 1.6
+Health Woodward 0.7
+Health Education 0.45
+Woodward Education 1.3
+Duke Education 0.3
+Woodward Duke 0.67

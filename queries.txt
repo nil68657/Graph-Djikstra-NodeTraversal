@@ -1,0 +1,17 @@
+print
+path Belk Education
+edgedown Health Education
+path Health Education
+vertexdown Belk
+path Health Education
+print
+reachable
+edgeup Health Education 
+vertexup Belk
+deleteedge Duke Education
+path Belk Education
+path Education Belk
+addedge Education Atkins 0.25
+addedge Woodward Education 0.6
+path Belk Atkins
+print
